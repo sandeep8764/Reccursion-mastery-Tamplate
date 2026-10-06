@@ -16,7 +16,7 @@ void solve(int n)
         return ;
     }
     
-    cout<< n " ";
+    cout<< n <<" ";
     solve(n-1); // reccursive Calling of Function  
 }
 
